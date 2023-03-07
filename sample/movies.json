@@ -1,0 +1,140 @@
+{
+    "id": "60e5b801-f5c6-4b7d-a507-47b705a23a82",
+    "name": "Interestelar",
+    "year": 2014,
+    "rating": 9,
+    "genre": "Ficção científica",
+    "director": "Christopher Nolan",
+    "country": "USA",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Mackenzie Foy",
+      "Matt Damon"
+    ],
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "subtitles": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ]
+  }
+
+/* ---------------------------------------------------------------------------------------------------- */
+
+{
+    "id": "f863be4e-53b5-4d66-b24e-f8b563ceb71e",
+    "name": "Avengers",
+    "year": 2012,
+    "rating": 8,
+    "genre": "Aventura",
+    "director": "Joss Whedon",
+    "country": "USA",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "subtitles": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ]
+  }
+
+/* ---------------------------------------------------------------------------------------------------- */
+
+{
+    "id": "dc23aead-a339-4ce8-b874-2495016d8cdb",
+    "name": "O Poderoso Chefão",
+    "year": 1972,
+    "rating": 10,
+    "genre": "Drama",
+    "director": "Francis Ford Coppola",
+    "country": "USA",
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Diane Keaton",
+      "Talia Shire"
+    ],
+    "languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "subtitles": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ]
+  }
+
+/* ---------------------------------------------------------------------------------------------------- */
+
+{
+    "id": "3d4990f8-0ec5-451c-b6b5-02fe06ef61a0",
+    "name": "O Auto da Compadecida",
+    "year": 2000,
+    "rating": 7,
+    "genre": "Comédia",
+    "director": "Guel Arraes",
+    "country": "Brasil",
+    "actors": [
+        "Matheus Nachtergaele",
+        "Selton Mello",
+        "Rogério Cardoso",
+        "Denise Fraga",
+        "Diogo Vilela"
+    ],
+    "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ],
+    "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ]
+}
+
+/* ---------------------------------------------------------------------------------------------------- */
+
+{
+    "id": "33775cb9-0b72-4c61-a396-93aca80abd9a",
+    "name": "Top Gun: Maverick",
+    "year": 2022,
+    "rating": 8,
+    "genre": "Ação",
+    "director": "Joseph Kosinski",
+    "country": "USA",
+    "actors": [
+        "Tom Cruise",
+        "Miles Teller",
+        "Jennifer Connelly",
+        "Val Kilmer",
+        "Glen Powell"
+    ],
+    "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ],
+    "subtitles": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ]
+}
